@@ -113,19 +113,12 @@ La funcion <em>UpdateJuegoBotones</em>, devuelve un **int** que puede tener dife
 valores. En la tabla se muestran los posibles valores, que significan, y unas etiquetas
 predefinidas que se pueden usar para mejorar la legibilidad.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-| juego_estado   | Siginificado | Etiqueta
-| :------------: | : ---------- | ----
-| 1              | Juego Solucionado | LP_SOLUCIONADO
-| 0              | No se ha solucionado, ningun evento. | LP_NO_SOL
-| -1             | No se ha solucionado aun, boton apretado. | LP_APRETADO_NO_SOL
-| -2             | (Solo Palabra Fija), secuencia incorrecta. | LP_APRETADO_SEQ_MAL
+| juego_estado   | Siginificado | Etiqueta |
+| :------------: | :------------ | :------------ |
+| 1              | Juego Solucionado | LP_SOLUCIONADO |
+| 0              | No se ha solucionado, ningun evento. | LP_NO_SOL |
+| -1             | No se ha solucionado aun, boton apretado. | LP_APRETADO_NO_SOL |
+| -2             | (Solo Palabra Fija), secuencia incorrecta. | LP_APRETADO_SEQ_MAL |
 
 
 ### Reset
