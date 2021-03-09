@@ -36,7 +36,7 @@
 
 // ==== LIBRERIAS EXTERNAS =======================================
 #include <DigitalSignals.h>
-#include "LP_JuegoBotones.h"
+#include <LP_JuegoBotones.h>
 
 
 // ==== OBJETO JUEGO BOTONES =====================================
