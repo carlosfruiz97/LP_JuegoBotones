@@ -1,0 +1,14 @@
+
+# Datatype
+JuegoBotones	KEYWORDS1
+
+# PublicMethods
+SetPinBotones	KEYWORDS2
+SetSecuencia	KEYWORDS2
+UpdateJuegoBotones	KEYWORDS2
+CualBotonPulsado	KEYWORDS2
+Estado_Juego	KEYWORDS2
+Reset	KEYWORDS2
+
+SetTiempoAutoReset	KEYWORDS2
+EndAutoReset	KEYWORDS2
