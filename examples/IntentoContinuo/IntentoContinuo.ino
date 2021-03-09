@@ -8,6 +8,8 @@
  * 
  * Descripcion:
  *     Ejemplo del uso de la libreria LP_JuegoBotones.h
+ *     
+ *     link: https://github.com/carlosfruiz97/LP_JuegoBotones
  *   
  * Propiedad de @logicprops
  * ===============================================================
